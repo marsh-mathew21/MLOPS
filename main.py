@@ -3,3 +3,6 @@ def print_n(L):
 
 def print_type(L):
     print(type(L))
+
+def changes_code(L):
+    print("Hi")    
